@@ -1,0 +1,141 @@
+[
+  {
+    "h1-title": {
+      "hu": "Berei László",
+      "en": "Berei László"
+    },
+    "lead-text": {
+      "hu": "Rendszer fejlesztés, tervezés, IT",
+      "en": "System development, design, IT"
+    },
+    "h2-about": {
+      "hu": "MAGAMRÓL",
+      "en": "ABOUT ME"
+    },
+    "p-about": {
+      "hu": "Berei László vagyok, 13 éve foglalkozom rendszerek fejlesztésével és adminisztrációjával. Szabadidőmben fotózással és videókészítéssel is foglalkozom.",
+      "en": "I am László Berei, I have been developing and administering systems for 13 years. In my free time I also do photography and making videos."
+    },
+    "ul-about": {
+      "hu": [
+        "Windows és Linux szerverek telepítése, üzemeltetése,",
+        "PKI és elektronikus aláírások ismerete,",
+        "VMware üzemeltetése,",
+        "MS SQL és adatbázis-kezelési ismeretek,",
+        "Microsoft Windows XP, Vista, 7 és 10 kliensek telepítése és üzemeltetése,",
+        "Linux (Debian, Ubuntu),",
+        "HTML, CSS, weblapkészítés, WordPress üzemeltetése,",
+        "Számítógépek összeszerelése, karbantartása."
+      ],
+      "en": [
+        "Installing and operating Windows and Linux servers,",
+        "PKI and electronic signatures,",
+        "VMware,",
+        "MS SQL and database management,",
+        "Installing and maintaining Microsoft Windows XP, Vista, 7 and 10 clients,",
+        "Linux (Debian, Ubuntu), ",
+        " HTML, CSS, web design, WordPress operation, ",
+        " Computer assembly, maintenance. "
+      ]
+    },
+    "h2-experience": {
+      "hu": "SZAKMAI TAPASZTALAT",
+      "en": "PROFESSIONAL EXPERIENCE"
+    },
+    "h5-opal": {
+      "hu": "OPAL Tartálypark Zrt. (OPAL Szolgáltató Zrt.)",
+      "en": "OPAL Tartálypark Zrt. (OPAL Szolgáltató Zrt.)"
+    },
+    "ul-opal": {
+      "hu": [
+        "Az MSZKSZ online bevallási és ellenőrzési rendszerének fejlesztése, üzemeltetése, karbantartása, továbbá a helyi felhasználók és a tagvállalatok felhasználóinak támogatása. Az VPOP online kapcsolatának felügyelete.",
+        "Elektronikus aláírások, időbélyegek, bevezetése és a rendszer felhasználóinak támogatása a használat során.",
+        "Hálózati Windows és Linux szerverek üzemeltetésénél felmerülő problémák megoldása."
+      ],
+      "en": [
+        "Development, operation and maintenance of MSZKSZ's online system, as well as support of local users and member companies. Supervision of VPOP's online connection.",
+        "Electronic signatures, timestamps, implementation and support for system users.",
+        "Solving problems of Windows and Linux Servers."
+      ]
+    },
+    "h5-bhard-2": {
+      "hu": "B-Hard Informatikai és Tanácsadó Kft.",
+      "en": "B-Hard Informatikai és Tanácsadó Kft."
+    },
+    "ul-bhard-2": {
+      "hu": [
+        "Szerződött partnereinél végzett rendszerfelügyelet és informatikai információs támogatás.",
+        "Hálózati hardver és szoftver struktúratervezés, beszerzés, telepítés bevezetés, folyamatos üzemeltetés és karbantartás.",
+        "Szerverek struktúrájának tervezése, telepítése és karbantartása VMware környezetben.",
+        "Hálózati és egyedi felhasználói rendszerek telepítése, karbantartása és üzemeltetése. kiemelten az MSZKSZ rendszerével kapcsolatban.",
+        "Az OPAL Zrt. központja és telephelyei online kapcsolatának biztosítása.",
+        "Cisco és Fortinet hálózati eszközök üzemeltetése."
+      ],
+      "en": [
+        "System management and IT information support at contracted partners.",
+        "Network hardware and software structure design, procurement, installation implementation, continuous operation and maintenance.",
+        "Design, install and maintain server architecture in a VMware environment.",
+        "Installation, maintenance and operation of network and individual user systems. Especially in connection with the MSZKSZ system.",
+        "Ensuring the online connection of the headquarters and sites of OPAL Zrt.",
+        "Operating Cisco and Fortinet Network Devices."
+      ]
+    },
+    "h5-elte": {
+      "hu": "ELTE TTK Kommunikáció és Multimédia Pedagógia Tanszék Informatikus-technikus.",
+      "en": "ELTE TTK Kommunikáció és Multimédia Pedagógia IT"
+    },
+    "ul-elte": {
+      "hu": [
+        "Rendszerfelügyelet, nemzetközi és hazai tudományos előadásokon az előadók által használt adatbázisok használata, számítógép javítás, hálózatépítés és karbantartás.",
+        "Windows szerver üzemeltetés."
+      ],
+      "en": ["System administration, computer repair, networking and maintenance.", "Windows server operation."]
+    },
+    "h5-bhard-1": {
+      "hu": "B-Hard Informatikai és Tanácsadó Kft.",
+      "en": "B-Hard Informatikai és Tanácsadó Kft."
+    },
+    "ul-bhard-1": {
+      "hu": ["Rendszerfelügyelet, számítógép javítás, hálózatépítés és -karbantartás.", "Windows szerver üzemeltetés."],
+      "en": ["System administration, computer repair, networking and maintenance.", "Windows server operation."]
+    },
+    "h2-education": {
+      "hu": "KÉPZETTSÉG",
+      "en": "EDUCATION"
+    },
+    "p-education-2": {
+      "hu": "Eötvös Loránd Tudományegyetem | Informatikus könyvtáros alapszakos diploma (BA) Információ és tudásmenedzsment szakirány.",
+      "en": "Eötvös Loránd University Bachelor of Science (BA) in Information Librarians with a specialization in Information and Knowledge Management."
+    },
+    "p-education-1": {
+      "hu": "CDM Számítástechnikai Intézet | Multimédia-fejlesztő felsőfokú OKJ.",
+      "en": "CDM Számítástechnikai Intézet | Multimedia developer OKJ."
+    },
+    "h2-certs": {
+      "hu": "TANÚSÍTVÁNYOK, VIZSGÁK",
+      "en": "CERTIFICATES, EXAMINATIONS"
+    },
+    "ul-certs": {
+      "hu": [
+        "ECDL,",
+        "Microsec PKI alapok és az elektronikus aláírás műszaki háttere és értelmezése,",
+        "SQL Adatbázis fejlesztő Penta School,",
+        "Linux rendszerüzemeltető Penta School,",
+        "Angol középfokú „C” típusú nyelvvizsga,",
+        "Microsoft nyári iskola: kisvállalkozási rendszergazda,",
+        "Jogosítvány: „B” kategória,",
+        "Kishajó vezetői jogosítvány."
+      ],
+      "en": [
+        "ECDL,",
+        "Microsec PKI basics and electronic signature technical background and interpretation,",
+        "SQL Database Developer Penta School,",
+        "Linux System Operator Penta School,",
+        "English Intermediate „C” Type Language Exam,",
+        " Microsoft Summer School: Small Business Administrator, ",
+        " License: Category „B”,",
+        "Small Boat Driver's License. "
+      ]
+    }
+  }
+]

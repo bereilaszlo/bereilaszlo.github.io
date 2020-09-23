@@ -1,0 +1,62 @@
+* {
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+h2,
+h3,
+h4 {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+h1 {
+  font-size: 4.5rem;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+.lead {
+  position: absolute;
+  top: 4.3rem;
+  font-size: 1.24rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+button:focus {
+  outline: none;
+}
+
+.bg-light,
+.card-header {
+  background-color: #dce2d6 !important;
+}
+
+.profile-img {
+  border-radius: 200px;
+  display: block;
+  padding-bottom: 2rem;
+}
+
+.year {
+  font-weight: bolder;
+  font-size: small;
+  padding-left: 0px;
+}
+
+.timeline {
+  border-left: 15px solid #dce2d6;
+}
+
+@media all and (max-width: 730px) {
+  .profile-img {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  .lead {
+    position: relative;
+    top: -1rem;
+  }
+}
