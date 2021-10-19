@@ -117,24 +117,24 @@
     },
     "ul-certs": {
       "hu": [
-        "ECDL,",
+        "Mikrotik MTCNA,",
         "Microsec PKI alapok és az elektronikus aláírás műszaki háttere és értelmezése,",
         "SQL Adatbázis fejlesztő Penta School,",
         "Linux rendszerüzemeltető Penta School,",
         "Angol középfokú „C” típusú nyelvvizsga,",
         "Microsoft nyári iskola: kisvállalkozási rendszergazda,",
         "Jogosítvány: „B” kategória,",
-        "Kishajó vezetői jogosítvány."
+        "ECDL"
       ],
       "en": [
-        "ECDL,",
+        "Mikrotik MTCNA,",
         "Microsec PKI basics and electronic signature technical background and interpretation,",
         "SQL Database Developer Penta School,",
         "Linux System Operator Penta School,",
         "English Intermediate „C” Type Language Exam,",
         " Microsoft Summer School: Small Business Administrator, ",
         " License: Category „B”,",
-        "Small Boat Driver's License. "
+        "ECDL"
       ]
     }
   }
